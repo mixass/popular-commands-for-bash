@@ -15,3 +15,4 @@ clear # cleans the shell // Shortcut CTRL + L
 who # Lists users who have connected to Shell
 pwd # Gives you the information of your current folder
 date # Date xd
+pause # Terminal stays open after processes are finished
