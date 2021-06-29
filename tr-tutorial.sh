@@ -15,4 +15,4 @@ clear # Shell i temizler // Kisayolu ctrl l
 who # Shell e baglanti kuran kisileri listeler # Remote connectionlarda ise yarar
 pwd # Bulundugunuz konumun bilgisini verir
 date # Tarih
-
+pause # Yapılan işlemler sonucunda terminal(cmd) i açık bırakır
