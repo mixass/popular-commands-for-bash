@@ -11,7 +11,7 @@ cat # It helps you to read the file. Example use : cat mixass.txt (Prints all th
 echo #Use for print.
 mkdir # You to create a folder Example use : mkdir MIXAS
 cp # File - Folder used to copy.
-clear # cleans the shell // Shortcut CTRL + L
+clear / cls # cleans the shell // Shortcut CTRL + L
 who # Lists users who have connected to Shell
 pwd # Gives you the information of your current folder
 date # Date xd
