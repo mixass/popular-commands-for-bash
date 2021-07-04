@@ -11,7 +11,7 @@ cat # Dosya icerisini okumaniza yariyor. Ornek kullanim : cat mixass.txt (Dosyan
 echo # Print icin kullanilir. '' icerisinde text yazmak okunurlugu artirir
 mkdir # Klasor olusturmanizi saglar Ornek kullanim : mkdir MIXAS
 cp # Dosya - Klasor kopyalanmasi icin kullanilir.
-clear # Shell i temizler // Kisayolu ctrl l
+clear / cls # Shell i temizler // Kisayolu ctrl l
 who # Shell e baglanti kuran kisileri listeler # Remote connectionlarda ise yarar
 pwd # Bulundugunuz konumun bilgisini verir
 date # Tarih
